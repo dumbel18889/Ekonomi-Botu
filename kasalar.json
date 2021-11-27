@@ -1,0 +1,38 @@
+[
+  {
+    "isim": "Kömür Kasa",
+    "açıklama": "Başlangıç olarak ideal olan bir kasa.",
+    "fiyat": "100",
+    "kasaid": "1"
+  },
+  {
+    "isim": "Demir Kasa",
+    "açıklama": "Orta düzeyde olan bir kasa.",
+    "fiyat": "500",
+    "kasaid": "2"
+  },
+  {
+    "isim": "Altın Kasa",
+    "açıklama": "Yüksek seviye bir kasa.",
+    "fiyat": "1000",
+    "kasaid": "3"
+  },
+  {
+    "isim": "Elmas Kasa",
+    "açıklama": "ELİT seviye bir kasa.",
+    "fiyat": "2000",
+    "kasaid": "4"
+  },
+  {
+    "isim": "Zümrüt Kasa",
+    "açıklama": "EFSANEVİ bir kasa bol kazançlar.",
+    "fiyat": "3000",
+    "kasaid": "5"
+  },
+  {
+    "isim": "Altın Araba Kasa",
+    "açıklama": "Altın bir kasa bol kazançlar.",
+    "fiyat": "15000",
+    "kasaid": "6"
+  }
+]
